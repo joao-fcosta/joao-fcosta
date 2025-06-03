@@ -1,6 +1,4 @@
-# 👋 Hi, I'm João Victor!
-
-I'm a young developer at the beginning of my career who is passionate about learning new things.
+# 👋 Hi, I'm a young developer at the beginning of my career who is passionate about learning new things.
 
 ## 🚀 Technologies I work with:
 
